@@ -25,8 +25,8 @@ Dieser EA (Expert Advisor) wurde in der Programmiersprache MQL5 entwickelt und i
 - Parameter 2: SLPoints       = 300
 - Parameter 3: TLPoints       = 300
 - Parameter 3: RSIPerioden    = 14
-- Parameter 4: SchwelleUnten  = 30
-- Parameter 5: SchwelleOben   = 70
+- Parameter 4: SchwelleUnten  = 65
+- Parameter 5: SchwelleOben   = 30
 - Parameter 4: Kommentar 
  
  Mitwirken
